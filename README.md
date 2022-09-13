@@ -1,3 +1,10 @@
+# Cdep 克隆版
+原有依赖文件仓库已无法访问，现将依赖文件Fork修改迁移至本仓库，将`cdep`脚本的`boot.yml`文件路径替换为
+```
+https://raw.githubusercontent.com/ThankRain/cdep-work/master/boot.yml
+```
+即可正常使用Cdep
+
 [![Build Status](https://travis-ci.org/google/cdep.svg?branch=master)](https://travis-ci.org/google/cdep)
 [![Gitter](https://badges.gitter.im/google-cdep/Lobby.svg)](https://gitter.im/google-cdep/Lobby)
 
